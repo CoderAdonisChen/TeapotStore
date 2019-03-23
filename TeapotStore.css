@@ -1,0 +1,11 @@
+.card {
+	background: black;
+}
+
+.card-body {
+	color: white;
+}
+
+#gallery {
+	background-image: url("imgs/background.jpg");
+}
